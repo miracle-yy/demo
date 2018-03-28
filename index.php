@@ -7,5 +7,5 @@
  */
 
 echo "hello world";
-echo "git demo";
+echo "git demo3";
 echo "pull demo";
